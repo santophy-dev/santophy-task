@@ -29,4 +29,4 @@
 
 		or 
 			hit the url 
-			"http://localhost/santophy/public"
+			"http://localhost/santophy-task/public"
